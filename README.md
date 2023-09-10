@@ -11,7 +11,7 @@ HQFS: High Quality Face Swapping with Multi-scale Adaptive Identity Mapping and 
 > Some results of HQFS
 >> There are the some results of face reenactment realized by HQFS.
 
-![image](https://github.com/LanGuipeng/MFIGAN/blob/main/results.jpg)
+![image](https://github.com/LanGuipeng/HQFS/tree/main/results/result.png)
 
 - [ ] **To do list**
     - [x] Upload the PyTorch source
