@@ -18,4 +18,4 @@ HQFS: High Quality Face Swapping with Multi-scale Adaptive Identity Mapping and 
     - [x] Presentation effect
     - [ ] Edit how to use code to achieve aesthetic quality evaluation of images
      
-&#x1F4E3 We will soon reveal how to use code to achieve high-quality face swapping!
+We will soon reveal how to use code to achieve high-quality face swapping!
