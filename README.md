@@ -2,7 +2,7 @@
 ---
 Face Swapping with Adaptive Exploration-fusion Mechanism and Dual En-decoing Tactic
 ---
-*This is the official code of HQFS, which is implemented by PyTorch.*
+*This is the official code of HQFace, which is implemented by PyTorch.*
 
 ><font color="#000066">Abstract</font><br /> 
 
